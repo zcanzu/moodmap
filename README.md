@@ -9,4 +9,4 @@ MoodMap is a global platform for sharing and visualizing emotions on a map, anon
 
 **Support & Feedback:**  
 Please open an issue or contact via [GitHub profile](https://github.com/zcanzu).
-support@monipayapp.com
+support@canz.dev
